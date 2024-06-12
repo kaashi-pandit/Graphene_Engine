@@ -34,3 +34,5 @@
 # Git files
 .git/
 .vs/
+bin/
+bin-int/
